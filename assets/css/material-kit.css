@@ -11590,8 +11590,8 @@ fieldset[disabled][disabled] .btn-group-raised .btn,
 
 body {
   /* background-color: #eee; */
-  /* background-color: #ffffff; */
-  background-color: #ffc72d;
+  background-color: #ffffff;
+  /* background-color: #ffc72d; */
   color: #000000;
   font-weight: 300;
 }
