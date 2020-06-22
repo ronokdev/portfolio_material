@@ -11590,7 +11590,8 @@ fieldset[disabled][disabled] .btn-group-raised .btn,
 
 body {
   /* background-color: #eee; */
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
+  background-color: #ffc72d;
   color: #000000;
   font-weight: 300;
 }
@@ -16899,7 +16900,7 @@ fieldset[disabled] .form-group.is-focused .togglebutton label {
 
 .header-filter::before {
   /* background: rgba(0, 0, 0, 0.5); */
-  background: #ffffff;
+  /* background: #ffffff; */
 }
 
 .header-filter .container {
